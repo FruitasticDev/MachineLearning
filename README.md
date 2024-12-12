@@ -27,7 +27,7 @@ Model class index are: ['AvocadoQ_Fresh', 'AvocadoQ_Mild', 'AvocadoQ_Rotten', 'B
 
 
 ## Installation
-The model developed using 3.10.12, and the libraries used are:
+The model developed using Python 3.10.12, and the libraries used are:
 
 - numpy
 - matplotlib
