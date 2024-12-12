@@ -39,8 +39,9 @@ The model developed using Python 3.10.12, and the libraries used are:
 ## Usage
 
 ### Directly use the model
-To run the predict the fruit, just run this code:
+To predict the fruit, just run this code:
 ```
+import tensorflow as tf
 
 
 def load_and_preprocess_image(image_path, img_size=(224, 224)):
