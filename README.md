@@ -4,7 +4,7 @@ Fruitastic is an Android-based scanning application designed to help users quick
 the main model is located in Fine_tune folder 
 
 # Dataset
-https://zenodo.org/records/7224690
+[Dataset](https://zenodo.org/records/7224690)
 
 # Model
 [Link to model archive](https://drive.google.com/drive/folders/1QpfyFaeajMxR9JHjwu7br1nDOidR7QYy?usp=sharing)
