@@ -29,13 +29,12 @@ Model class index are: ['AvocadoQ_Fresh', 'AvocadoQ_Mild', 'AvocadoQ_Rotten', 'B
 ## Installation
 The model developed using Python 3.10.12, and the libraries used are:
 
-- numpy
-- matplotlib
-- tensorflow 
-- PIL 
-- seaborn
-- sklearn
-
+- NumPy version: 1.26.4
+- Matplotlib version: 3.8.0
+- TensorFlow version: 2.17.1
+- Pillow (PIL) version: 11.0.0
+- Seaborn version: 0.13.2
+- Scikit-learn version: 1.5.2
 
 ## Usage
 
