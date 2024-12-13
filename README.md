@@ -8,7 +8,7 @@ The fruit dataset we use is downloaded from here [![DOI](https://zenodo.org/badg
 
 
 ## Cleaned dataset
-We already cleane the dataset, and can be downloaded from [](https://drive.google.com/file/d/1-09sgSnfWQk6C4-m5nxVD7dRrT2IjnZQ/view?usp=sharing)
+We already cleaned the dataset, and can be downloaded from [this drive](https://drive.google.com/file/d/1-09sgSnfWQk6C4-m5nxVD7dRrT2IjnZQ/view?usp=sharing)
 
 
 ## Model
